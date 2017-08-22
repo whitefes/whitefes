@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Spring-4.3.10.RELEASE" type="spring">
+    <properties version="4.3.10.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-aspects-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-context-support-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-aop-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-beans-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-expression-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-instrument-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-context-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-instrument-tomcat-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-jdbc-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-jms-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-messaging-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-core-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-oxm-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-orm-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-tx-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/spring-test-4.3.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/helper/lib/aopalliance-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
