@@ -1,2 +1,0 @@
-# whitefes
-study
